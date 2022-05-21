@@ -4,8 +4,8 @@ Document Sentiment Analysis using Opinion Mining
 1) Install nltk (it stands for Natural Language Toolkit - used for NLP)
 	Run command => pip3 install nltk  - using administrator privileges
 2) Download below nltk corpora i.e. datasets
-	> import nltk
-	> nltk.download('stopwords')
+	- import nltk
+	- nltk.download('stopwords')
 	> nltk.download('punkt')
 	> nltk.download('averaged_perceptron_tagger')
 	> nltk.download('wordnet')
