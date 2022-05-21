@@ -1,6 +1,6 @@
 # Document Sentiment Analysis using Opinion Mining
 Sentiment analysis of the given dataset performed using opinion mining technique.
-This analyzer has taken movie review datasets as input and calcuated the sentiment using NLP
+This analyzer has taken review datasets as input and calcuated the sentiment using NLTK Library.
 
 1) Install nltk (stands for Natural Language Toolkit - used for NLP)
 	Run command => pip3 install nltk  - using administrator privileges
