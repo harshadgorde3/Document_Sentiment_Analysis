@@ -19,3 +19,6 @@ This analyzer has taken review datasets as input and calcuated the sentiment usi
 4) For word cloud, these libraries need to be downloaded:
 	- pip3 install matplotlib
 	- pip3 install wordcloud
+
+
+![wordCloud](https://user-images.githubusercontent.com/45356054/169649040-ba94ed5c-eafd-454a-b3d7-9dd57aca222b.png)
